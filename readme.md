@@ -1,1 +1,3 @@
-Prueba de commit
+Esto es el Readme de mi proyecto, cada vez que he arreglado una vulnerabilidad he intentado hacer un commit, hay archivos que he tenido que tocar fuera de la carpeta foro como el archivo default.template.conf que se encuentra en docker-nginx-php-mysql/etc/nginx/ por lo tanto lo he copiado aqui y he puesto tambien los cambios que he ido haciendole.
+
+Las pruebas las he ido realizando en el contenedor real y cada vez que he visto que funcionaban las he traido aqui y he realizado el commit.
