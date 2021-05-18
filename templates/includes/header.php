@@ -12,7 +12,9 @@
     <link href="<?php echo BASE_URI; ?>templates/css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="<?php echo BASE_URI; ?>templates/css/custom.css" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGHk7tPXikynS7ogEvDej/m4="
+    crossorigin="anonymous"></script>
     <script src="<?php echo BASE_URI; ?>templates/js/bootstrap.js"></script>
     <script src="<?php echo BASE_URI; ?>templates/js/ckeditor/ckeditor.js"></script>
       
